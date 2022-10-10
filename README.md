@@ -1,4 +1,4 @@
-# what is Google Search Console?
+# What is Google Search Console?
 
 [![what is google search console](redd.png)](https://github.com/techworkie/what.is.google.search.console)
 
